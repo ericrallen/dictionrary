@@ -3,7 +3,7 @@
 #idea borrowed and modified from here:
 #https://synacl.wordpress.com/2012/02/10/using-john-the-ripper-to-crack-a-password-protected-rar-archive/
 
-echo "DictionRARy v0.0.1 by @ericrallen";
+echo "DictionRARy v0.0.1";
 
 #check for correct options
 if [ $# -ne 2 ]; then

@@ -1,6 +1,6 @@
 # dictionrary v0.0.1
 
-*Note*: This is not an elegant solution, but it works well for simple dictionary attacks against a RAR file.
+**Note**: This is not an elegant solution, but it works well for simple dictionary attacks against a RAR file.
 
 A basic shell script for checking a password-protected RAR file against a word list.
 
